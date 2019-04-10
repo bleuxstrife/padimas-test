@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">padimas-test</string>
+    <string name="app_name">Nemob</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="pass6Char">Password must be 6 character</string>
+    <string name="login_loading">Login...</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
+    <string name="logout_content">Are you sure you want to logout ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
 </resources>

@@ -12,8 +12,10 @@ import android.widget.Toast;
 
 import com.interview.test.padimas_test.R;
 
+import org.greenrobot.eventbus.EventBus;
+
 import butterknife.ButterKnife;
-import de.greenrobot.event.EventBus;
+
 
 public abstract class BaseActivity extends AppCompatActivity implements IBaseView {
     private ProgressDialog mProgressDialog;
